@@ -43,6 +43,10 @@
 
 `git add .`
 
+or
+
+`git add -u`
+
 `git commit -m "firt commit"`
 
 `git push -u origin master`
