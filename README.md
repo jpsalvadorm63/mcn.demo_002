@@ -33,7 +33,7 @@
 
 `git init`
 
-`git remote add origin https://github.com/sdaityari/DEMO_002.git`
+`git remote add origin https://github.com/jpsalvadorm63/mcn.demo_002.git`
 
 `git status`
 
