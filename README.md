@@ -35,7 +35,7 @@
 
 `git remote add origin https://github.com/jpsalvadorm63/mcn.demo_002.git`
 
-or
+    or
 
 `git remote set-url origin https://github.com/jpsalvadorm63/mcn.demo_002.git`
 
